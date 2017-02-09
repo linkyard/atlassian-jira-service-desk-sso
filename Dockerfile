@@ -1,4 +1,4 @@
-FROM cptactionhank/atlassian-jira-service-desk:3.3.0
+FROM cptactionhank/atlassian-jira-service-desk:3.3.1
 MAINTAINER Mario Siegenthaler <mario.siegenthaler@linkyard.ch>
 
 # Enable SSO for Service Desk Users
